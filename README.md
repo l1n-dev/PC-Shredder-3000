@@ -11,3 +11,4 @@ chmod +x destroy-linux.sh
 Enjoy a bricked PC!
 
 NOTE: Windows version also deletes EFI partition contents. Use at your own risk.
+NOTE 2: I won't really be updating this until something changes in Windows or the Linux Kernel so don't expect frequent updates.
