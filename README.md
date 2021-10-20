@@ -21,6 +21,6 @@ Enjoy a bricked PC!
 
 Update: Working on an EXE File for the Windows ppl.
 
-NOTE: Windows version also deletes EFI partition contents. Use at your own risk.
+NOTE: I removed the EFI shredding due to it being pointless and extremely buggy on Windows 8 and below. Please understand.
 
 NOTE 2: I won't really be updating this until something changes in Windows, the Linux Kernel or an error in the code so don't expect frequent updates.
