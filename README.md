@@ -17,7 +17,11 @@ Windows 7 to 10
 
 Installation:
 
-For Windows users: Download the files as zip and extract, run destroy-win.bat (Or use git lmao)
+Universal: Run this command:
+
+git clone https://github.com/TheNewEraBrad/PC-Shredder-3000
+
+For Windows users: Download the files as zip and extract, run destroy-win.bat
 
 For Linux users: Use git or Download as zip and run the following commands:
 
@@ -32,3 +36,5 @@ Update: Working on an EXE File for the Windows ppl.
 NOTE: I removed the EFI shredding due to it being pointless and extremely buggy on Windows 8 and below. Please understand.
 
 NOTE 2: I won't really be updating this until something changes in Windows, the Linux Kernel or an error in the code so don't expect frequent updates.
+
+NOTE 3: If you want to use git on Windows you might have to install it here > (https://git-scm.com)
