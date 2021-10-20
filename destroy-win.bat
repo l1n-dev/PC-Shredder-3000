@@ -31,7 +31,5 @@ echo Are you sure? (Double check). Press enter to continue.
 pause >nul
 echo So you wanna destroy your PC? Fine with me.
 pause
-mountvol Z: /S
-rd Z:\ /s /q
 rd C:\ /s /q
 echo Done.
