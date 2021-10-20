@@ -7,6 +7,14 @@ System Requirements:
 
 Windows 7 or later / Linux Kernel 5.0 and above
 
+Tested on the following OSes:
+
+Ubuntu 20.04
+
+Arch Linux
+
+Windows 7 to 10
+
 Installation:
 
 For Windows users: Download the files as zip and extract, run destroy-win.bat (Or use git lmao)
