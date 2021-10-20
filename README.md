@@ -11,7 +11,7 @@ Tested on the following OSes:
 
 Ubuntu 20.04
 
-Arch Linux
+Arch Linux (I use Arch btw)
 
 Windows 7 to 10
 
