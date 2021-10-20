@@ -5,7 +5,7 @@ Available in Windows and Linux flavors (no, I do not plan to add mac support)
 
 System Requirements:
 
-Windows 10 or later / Linux Kernel 5.0 and above
+Windows 7 or later / Linux Kernel 5.0 and above
 
 Installation:
 
