@@ -1,4 +1,4 @@
-#Coded with GNU nano 5.9
+#Coded with GNU nano 5.9 and Github Editor
 #Destroy any Linux PC!
 
 while true; do
