@@ -3,16 +3,21 @@ A script that instantly destroys any PC so you don't have to!
 
 Available in Windows and Linux flavors (no, I do not plan to add mac support)
 
-System Requirements:
+Minimum System Requirements:
+
+Windows XP (Untested) or later / Linux Kernel 4.0 and above
+
+Recommemded System Specs:
 
 Windows 7 or later / Linux Kernel 5.0 and above
+
 (Note for Windows 10 and above: Disable Windows Defender because it causes lots of issues with this script. I am currently wotking on a fix.)
 
 Tested on the following OSes:
 
 Ubuntu 20.04
 
-Arch Linux (I use Arch btw)
+Arch Linux (I use Arch btw) (Well I use OpenCore now)
 
 Windows 7 to 10
 
