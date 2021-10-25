@@ -17,7 +17,7 @@ Tested on the following OSes:
 
 Ubuntu 20.04
 
-Arch Linux (I use Arch btw) (Well I use OpenCore now)
+Arch Linux (I use EndeavourOS btw)
 
 Windows 7 to 10
 
