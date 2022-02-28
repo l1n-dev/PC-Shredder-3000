@@ -5,7 +5,7 @@ Available in Windows and Linux flavors (no, I do not plan to add mac support)
 
 Minimum System Requirements:
 
-Windows XP (Untested) or later / Linux Kernel 4.0 and above
+Windows XP (Untested) or later / Linux Kernel 3.0 and above
 
 Recommemded System Specs:
 
@@ -17,7 +17,9 @@ Tested on the following OSes:
 
 Ubuntu 20.04
 
-Arch Linux (I use EndeavourOS btw)
+Arch Linux
+
+EndeavourOS
 
 Windows 7 to 10
 
@@ -29,7 +31,7 @@ Universal: Run this command:
 
 For Windows users: Download the files as zip and extract, run `destroy-win.bat`
 
-For Linux users: Use git or Download as zip and run the following commands:
+For Linux users: Use git or the `Download as zip` and run the following commands:
 
 `chmod +x destroy-linux.sh`
 
